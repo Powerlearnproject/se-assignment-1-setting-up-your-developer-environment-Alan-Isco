@@ -119,12 +119,6 @@ I navigated to the MySQL Installer page.
 I downloaded and ran the MySQL Installer.
 I followed the on-screen instructions to install MySQL Server and MySQL Workbench.
 
-7. Set Up Development Environments and Virtualization (Optional)
-
-Virtualization Tool: Docker (Optional)
-
-I downloaded Docker Desktop for Windows from the Docker website.
-I ran the installer and followed the instructions to complete the installation.
 
 8. Explore Extensions and Plugins
 
@@ -139,10 +133,6 @@ GitLens:
 
 I searched for "GitLens" in the Extensions view and installed it to enhance Git capabilities.
 
-9. Document Your Setup
-
-This document serves as the detailed setup guide, including screenshots where necessary.
-
 10. Reflection
 
 Challenges and Solutions:
@@ -153,5 +143,3 @@ Solution: I regularly checked compatibility documentation and used troubleshooti
 Challenge: Initial setup and configuration of Git.
 Solution: I followed detailed guides from the Git and GitHub documentation.
 
-3. Reflection on Challenges
-One of the challanges I enconters was installing MySQL. thew installation needed Visual C++ Redistibutable 2019 x64 for it to be installed. On surfing the web I could not find the 2019 redistributable so I went for the 2015 one. Luckily the installation accepted and everything was fine.
