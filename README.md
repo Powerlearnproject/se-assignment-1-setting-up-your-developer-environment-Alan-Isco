@@ -52,3 +52,107 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+DERIVERABLES
+
+1. Document Detailing the Setup Process
+Below is a comprehensive document detailing the setup process with step-by-step instructions and screenshots where necessary.
+
+Developer Environment Setup Documentation
+Objective
+To set up an efficient developer environment for software engineering projects.
+
+Tasks and Steps
+1. Select Your Operating System (OS)
+
+Chosen OS: Windows 11
+
+I navigated to the Windows 11 download page.
+I followed the instructions to download the Windows 11 installation media.
+I installed Windows 11 by booting from the installation media and following the on-screen instructions.
+
+2. Install a Text Editor or Integrated Development Environment (IDE)
+
+Chosen IDE: Visual Studio Code
+
+I navigated to the Visual Studio Code download page.
+I downloaded the installer for Windows.
+I ran the installer and followed the on-screen instructions to complete the installation.
+I installed the necessary extensions that we were instructed.
+
+3. Set Up Version Control System
+
+Version Control System: Git and GitHub
+
+Install Git:
+
+I downloaded the Git installer from the Git website.
+I ran the installer and followed the on-screen instructions, choosing the default options where applicable.
+I configured Git by opening a terminal and running
+
+For the github account I already had a github account.
+
+. Install Necessary Programming Languages and Runtimes
+
+4. Programming Language: Python
+
+I downloaded Python from the Python website.
+I ran the installer and ensured the option to add Python to my PATH was selected.
+I verified the installation by opening a terminal and running:
+
+python --version
+
+5. Install Package Managers
+
+Package Manager: pip (for Python)
+
+pip is included with Python 3.4+ installations. I verified by running:
+
+pip --version
+
+6. Configure a Database (MySQL)
+
+Database: MySQL
+
+I navigated to the MySQL Installer page.
+I downloaded and ran the MySQL Installer.
+I followed the on-screen instructions to install MySQL Server and MySQL Workbench.
+
+7. Set Up Development Environments and Virtualization (Optional)
+
+Virtualization Tool: Docker (Optional)
+
+I downloaded Docker Desktop for Windows from the Docker website.
+I ran the installer and followed the instructions to complete the installation.
+
+8. Explore Extensions and Plugins
+
+Extensions for Visual Studio Code:
+
+Python Extension:
+
+I opened Visual Studio Code.
+I went to the Extensions view by clicking the Extensions icon in the Activity Bar on the side of the window.
+I searched for "Python" and installed the extension provided by Microsoft.
+GitLens:
+
+I searched for "GitLens" in the Extensions view and installed it to enhance Git capabilities.
+
+9. Document Your Setup
+
+This document serves as the detailed setup guide, including screenshots where necessary.
+
+10. Reflection
+
+Challenges and Solutions:
+
+Challenge: Ensuring all tools and dependencies were compatible with Windows 11.
+Solution: I regularly checked compatibility documentation and used troubleshooting guides available online.
+
+Challenge: Initial setup and configuration of Git.
+Solution: I followed detailed guides from the Git and GitHub documentation.
+
+
+3. Reflection on Challenges
+One of the challanges I enconters was installing MySQL. thew installation needed Visual C++ Redistibutable 2019 x64 for it to be installed. On surfing the web I could not find the 2019 redistributable so I went for the 2015 one. Luckily the installation accepted and everything was fine.
