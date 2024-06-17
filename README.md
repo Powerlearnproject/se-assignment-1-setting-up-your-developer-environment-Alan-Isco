@@ -153,6 +153,5 @@ Solution: I regularly checked compatibility documentation and used troubleshooti
 Challenge: Initial setup and configuration of Git.
 Solution: I followed detailed guides from the Git and GitHub documentation.
 
-
 3. Reflection on Challenges
 One of the challanges I enconters was installing MySQL. thew installation needed Visual C++ Redistibutable 2019 x64 for it to be installed. On surfing the web I could not find the 2019 redistributable so I went for the 2015 one. Luckily the installation accepted and everything was fine.
